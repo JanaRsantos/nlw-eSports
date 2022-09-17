@@ -1,6 +1,6 @@
 # NLW eSports - Trilha Explorer
 
-![preview](./.github/preview.png)
+![preview](./.assets/preview.png)
 
 > Trilha Explorer
 
@@ -12,8 +12,8 @@ Projeto construído no evento Next Level Week da ROcketseat.
 
 - HTML
 - CSS
-- Git e Github
+- Git r Github
 
-## Contato
+## COntato
 
 jana.ramoss@gmail.com
