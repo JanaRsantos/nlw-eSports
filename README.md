@@ -12,8 +12,8 @@ Projeto construído no evento Next Level Week da ROcketseat.
 
 - HTML
 - CSS
-- Git r Github
+- Git e Github
 
-## COntato
+## Contato
 
 jana.ramoss@gmail.com
